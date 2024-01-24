@@ -3,7 +3,7 @@
   "name": "quadratic-equations",
   "version": "1.0.0",
   "description": "Решение квадратных уравнений. Нахождение дискриминанта",
-  "main": "index.js",
+  "main": "./index.js",
   "scripts": {
     "start": "node ./index.js"
   },
