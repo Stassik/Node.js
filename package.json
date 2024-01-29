@@ -1,20 +1,5 @@
 {
-  "type": "commonjs",
-  "name": "quadratic-equations",
-  "version": "1.0.0",
-  "description": "Решение квадратных уравнений. Нахождение дискриминанта",
-  "main": "./index.js",
-  "scripts": {
-    "start": "node ./index.js"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/Stassik/Node.js.git"
-  },
-  "author": "stassik",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/Stassik/Node.js/issues"
-  },
-  "homepage": "https://github.com/Stassik/Node.js#readme"
+  "dependencies": {
+    "express": "^4.18.2"
+  }
 }
